@@ -1,0 +1,6 @@
+account_id: <NR Account ID>
+api_token: <NR API Token>
+log_level: Standard
+snow_url: <Service Now URL>
+snow_login: <Service Now User Id>
+snow_pwd: <Service Now Password>
